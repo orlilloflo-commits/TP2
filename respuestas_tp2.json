@@ -3,7 +3,7 @@
     "tp_id": "TSO-2026-TP2",
     "title": "TP N° 2: Administración de Procesos, Hilos y Planificación de CPU",
     "catedra": "Teoría de Sistemas Operativos - UNJu Facultad de Ingeniería",
-    "submitted_at": "2026-09-11T14:50:37.906Z"
+    "submitted_at": "2026-09-11T15:51:38.275Z"
   },
   "student": {
     "name": "Orlando Martiniano Flores",
@@ -23,7 +23,7 @@
       "prop_almacenamiento": "PROGRAMA",
       "prop_contador_programa": "PROCESO",
       "prop_identificador_pid": "PROCESO",
-      "prop_instancias_multiples": "PROGRAMA",
+      "prop_instancias_multiples": "PROCESO",
       "prop_estado_cambiante": "PROCESO",
       "prop_pasividad": "PROGRAMA"
     },
